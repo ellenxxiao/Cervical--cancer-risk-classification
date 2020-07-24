@@ -7,12 +7,12 @@ Cervical cancer is a common type of cancer in women. It can be curable when it i
 This project aims to identify key cervical cancer indicators/predictors and to predict cervical cancer based on demographic information, habits, historical medical records with machine learning algorithms. 
 
 ## Table of Content
-[Dataset](#Dataset)
-[Data Preprocessing](#Data Preprocessing)
-[Data Visualization](#Data Visualization)
-[Feature selection](#Feature Selection)
-[Prediction](#Prediction)
-[Results](#Results)
+- [Dataset](#Dataset) 
+- [Data Preprocessing](#Data Preprocessing)  
+- [Data Visualization](#Data Visualization)  
+- [Feature selection](#Feature Selection)  
+- [Prediction](#Prediction)
+- [Results](#Results)
 
 ## Dataset
 The data source can be found at [UCI Machine Learning Repository - Cervical cancer (Risk Factors) Data Set](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29) under the name Data Folder. 
