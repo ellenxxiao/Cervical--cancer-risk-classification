@@ -44,7 +44,7 @@ Three models are applied to predict cervical cancer, refer <a href="https://gith
 ## Results
 Age, Number of pregancies, Hormonal Contraceptives (years), IUD(years), Smokes (years), First secual intercourse age, Smokes(packs/year) are the features appear to be important in both RFE and RandomForest models. 
 
-RandomForest Classification has the best result.
+RandomForest Classification has the best result.  
 Accuracy: 0.973    
 F1-Score: 0.896   
 Sensitivity: 0.812
