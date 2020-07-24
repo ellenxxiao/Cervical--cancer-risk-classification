@@ -8,29 +8,29 @@ This project aims to identify key cervical cancer indicators/predictors and to p
 
 ## Table of Content
 - [Dataset](#Dataset) 
-- [Data Preprocessing](#Data Preprocessing)  
-- [Data Visualization](#Data Visualization)  
-- [Feature selection](#Feature Selection)  
+- [Data Preprocessing](#Data_Preprocessing)  
+- [Data Visualization](#Data_Visualization)  
+- [Feature selection](#Feature_Selection)  
 - [Prediction](#Prediction)
 - [Results](#Results)
 
 ## Dataset
 The data source can be found at [UCI Machine Learning Repository - Cervical cancer (Risk Factors) Data Set](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29) under the name Data Folder. 
 
-## Data Preprocessing
+## Data_Preprocessing
 <a href="https://github.com/ellenxxiao/Cervical--cancer-risk-classification/blob/master/Data%20Preprocessing.py" target="_blank">Data preprocessing</a> contains 4 steps:
 1. Fill out missing values with correlated features/or median values 
 2. Remove missing values
 3. Remove unnecessary columns
 4. Create features that might have insights and can interpret better
 
-## Data Visualization
+## Data_Visualization
 <a href="https://github.com/ellenxxiao/Cervical--cancer-risk-classification/blob/master/Data%20Visualization.py" target="_blank">Data visualization</a> section shows the followings:
 1. The distributions of features
 2. How the disease distributes among features
 3. Feature correlations
 
-## Feature Selection
+## Feature_Selection
 Two models are applied to select features, refer <a href="https://github.com/ellenxxiao/Cervical--cancer-risk-classification/blob/master/Feature%20Selection.py" target="_blank">here</a>
 1. RFE
 2. RandomForest
