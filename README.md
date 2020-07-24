@@ -1,5 +1,5 @@
 # Cervical--cancer-risk-classification
-The project can be found <a href="" target="_blank">here</a>
+The project can be found <a href="https://github.com/ellenxxiao/Cervical--cancer-risk-classification/blob/master/Cervical%20Cancer.ipynb" target="_blank">here</a>
 
 ## Introduction
 Cervical cancer is a common type of cancer in women. It can be curable when it is treated in the early stage. Therefore, it is essential for women to be aware of the habits, health conditions, medical history and etc that might lead to cervical cancer.   
